@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bootcamp Conversion</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hint">Weight to Convert</string>
+    <string name="radLbToKilo">Convert Pounds to Kilograms</string>
+    <string name="radKiloToLB">Convert Kilograms to Pounds</string>
+    <string name="txtTitle">Convert Metric to English Weights</string>
+    <string name="btnConvert">Convert Weight</string>
+
+</resources>
